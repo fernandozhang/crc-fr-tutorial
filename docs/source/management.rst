@@ -8,12 +8,10 @@
 包含添加部门、添加子部门、禁用部门、指定部门负责人等功能；
 
 .. image:: ./media/manage002.png
-   :alt: 图形用户界面, 应用程序 描述已自动生成
    :width: 5.76806in
    :height: 2.18611in
 
 .. image:: ./media/manage003.png
-   :alt: 图形用户界面, 应用程序 描述已自动生成
    :width: 5.76806in
    :height: 3.49861in
 
@@ -30,7 +28,6 @@
    :height: 0.45139in
 
 .. image:: ./media/manage006.png
-   :alt: 图形用户界面, 应用程序, 网站 描述已自动生成
    :width: 3.69375in
    :height: 3.0178in
 
