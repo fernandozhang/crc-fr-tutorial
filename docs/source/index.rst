@@ -8,5 +8,5 @@ Contents
 
 .. toctree::
 
-   报销流程
-   管理功能
+   docs/报销流程
+   docs/管理功能
