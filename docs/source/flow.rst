@@ -60,17 +60,16 @@
 
 1. “待审批报销”—“审批”
 
-..
+.. image:: ./media/flow009.png
+   :width: 5.76806in
+   :height: 2.30486in
 
-   ..
-   image:: ./media/flow009.00417in
 
 2. “采购报销”—“详情”
 
-..
-
-   ..
-   image:: ./media/flow010.53889in
+.. image:: ./media/flow010.png
+   :width: 5.76806in
+   :height: 2.30486in
 
 -  **审批通过或退回**
 
