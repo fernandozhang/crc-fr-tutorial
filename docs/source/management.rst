@@ -7,12 +7,12 @@
 
 包含添加部门、添加子部门、禁用部门、指定部门负责人等功能；
 
-.. image:: ./media/管理功能002.png
+.. image:: media\manage002.png
    :alt: 图形用户界面, 应用程序 描述已自动生成
    :width: 5.76806in
    :height: 2.18611in
 
-.. image:: ./media/管理功能003.png
+.. image:: media\manage003.png
    :alt: 图形用户界面, 应用程序 描述已自动生成
    :width: 5.76806in
    :height: 3.49861in
@@ -21,20 +21,20 @@
 
 包含添加用户、Excel批量导入用户、分配角色、重置密码、修改用户信息等功能；
 
-.. image:: ./media/管理功能004.png
+.. image:: media\manage004.png
    :width: 2.1039in
    :height: 1.63521in
 
-.. image:: ./media/管理功能005.png
+.. image:: media\manage005.png
    :width: 5.76806in
    :height: 0.45139in
 
-.. image:: ./media/管理功能006.png
+.. image:: media\manage006.png
    :alt: 图形用户界面, 应用程序, 网站 描述已自动生成
    :width: 3.69375in
    :height: 3.0178in
 
-.. image:: ./media/管理功能007.png
+.. image:: media\manage007.png
    :width: 5.76806in
    :height: 0.44444in
 

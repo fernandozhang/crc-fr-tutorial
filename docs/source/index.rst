@@ -7,6 +7,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   报销流程
-   管理功能
+   flow
+   management
